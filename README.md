@@ -73,10 +73,6 @@ This project is a full-stack e-commerce website for laptops, built using the **M
    npm start
    ```
 
-## 📸 Screenshots
-
-*Add screenshots of your website UI here to showcase key pages and features.*
-
 ## 📚 Future Scope
 
 - User authentication and order history
@@ -86,15 +82,15 @@ This project is a full-stack e-commerce website for laptops, built using the **M
 
 ## 👩‍💻 Developed By
 
-**Vidharshana M**  
+**Vidharshana D**  
 B.E. CSE | Sri Shakthi Institute of Engineering and Technology  
-Finalist - TNWIS Hackathon | Passionate Full Stack Developer
+Passionate Full Stack Developer
 
 ## 📬 Contact
 
 If you have any queries or feedback, feel free to reach out:
 
-- 📧 Email: vidharshanam@example.com
+- 📧 Email: vidharshanadevaraj06@example.com
 - 🔗 GitHub: [Vidharshana06-web](https://github.com/Vidharshana06-web)
 
 ## ⭐ Show Your Support
